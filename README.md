@@ -50,3 +50,5 @@ AWS makes it pretty flexible and granular, how it can be done.
 In many cases you don't need some advanced network configs.
 Network ACLs firewall rules for subnets.
 Seciruty groups - firewalls on virtual machine level.
+
+## Creating AWS resources using provider
